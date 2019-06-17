@@ -1,0 +1,34 @@
+dept_row_id,dept_name,dept_status,dept_row_created_date
+1,Administration,Active,6/1/2016 12:54
+2,Business Development,Active,11/26/2018 15:02
+3,Finance,Active,3/22/2016 10:36
+4,Gateway Operations,Active,3/22/2016 10:36
+5,HR,Active,6/1/2016 12:54
+7,IT,Active,3/22/2016 10:36
+8,MD's Office,Active,3/22/2016 10:36
+10,NOC,Active,3/22/2016 10:36
+11,Regional Implementation & Operations 1,Active,11/26/2018 15:05
+12,Regional Implementation & Operations 2,Active,11/26/2018 15:05
+14,Planning Architecture & Design,Active,5/2/2017 11:59
+15,Power & Projects,Active,3/22/2016 10:36
+16,Regulatory & Corporate Affairs,Active,11/26/2018 15:06
+17,Revenue Collection,Active,3/22/2016 10:36
+18,Sales & Marketing,Active,3/22/2016 10:36
+19,Supply Chain Management,Active,1/18/2017 18:34
+30,Director's Office,Active,9/27/2016 14:52
+31,Business Control,Active,10/5/2016 10:51
+33,Technology Audit,Active,9/24/2017 13:23
+34,I&C- Implementation,Active,1/18/2017 13:38
+35,OH- Implementation,Active,1/18/2017 13:39
+36,UG- Implementation,Active,1/18/2017 13:39
+39,Billing & Revenue Collection,Active,2/7/2017 10:18
+40,Regional Implementation & Operations 3,Active,11/26/2018 15:05
+41,COS,Active,11/26/2018 15:04
+42,Regulatory & Corporate Affairs,Active,10/22/2017 13:24
+43,Customer Relations Management,Active,11/1/2017 17:29
+44,Corporate Governance,Active,2/1/2018 17:12
+46,Regional Implementation & Operations 4,Active,11/26/2018 15:05
+47,CCL Support,Active,7/19/2018 11:48
+48,Business Strategy,Active,11/1/2018 17:26
+49,Central Power,Active,11/19/2018 13:43
+50,Central Implementation & Governance,Active,11/26/2018 15:01
