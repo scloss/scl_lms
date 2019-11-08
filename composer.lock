@@ -1,10 +1,9 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "56e7be5ae18a1522caca6cdbc551e4a9",
     "content-hash": "13b51d26d3c00340b6eff2dc5b15b98c",
     "packages": [
         {
@@ -63,7 +62,7 @@
                 "oauth",
                 "oauth2"
             ],
-            "time": "2018-12-04 00:29:32"
+            "time": "2018-12-04T00:29:32+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -129,7 +128,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2019-01-11 14:42:53"
+            "time": "2019-01-11T14:42:53+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -137,19 +136,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/promises.git",
-                "reference": "926eaa3ff73cde2becf652b785831bcb7618568a"
+                "reference": "17d36ed176c998839582c739ce0753381598edf0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/promises/zipball/926eaa3ff73cde2becf652b785831bcb7618568a",
-                "reference": "926eaa3ff73cde2becf652b785831bcb7618568a",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/17d36ed176c998839582c739ce0753381598edf0",
+                "reference": "17d36ed176c998839582c739ce0753381598edf0",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.5.0"
+                "php": ">=5.6"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8.36"
+                "phpunit/phpunit": "^5.7.27 || ^7.5"
             },
             "type": "library",
             "extra": {
@@ -180,7 +179,7 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2018-10-30 00:20:04"
+            "time": "2019-07-02T14:54:06+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -250,7 +249,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2018-12-28 01:59:01"
+            "time": "2018-12-28T01:59:01+00:00"
         },
         {
             "name": "jpgraph/jpgraph",
@@ -290,7 +289,7 @@
                 "jpgraph",
                 "pie"
             ],
-            "time": "2017-03-29 23:34:57"
+            "time": "2017-03-29T23:34:57+00:00"
         },
         {
             "name": "league/oauth2-client",
@@ -357,7 +356,7 @@
                 "oauth2",
                 "single sign on"
             ],
-            "time": "2018-11-22 18:33:57"
+            "time": "2018-11-22T18:33:57+00:00"
         },
         {
             "name": "league/oauth2-google",
@@ -408,7 +407,7 @@
                 "oauth",
                 "oauth2"
             ],
-            "time": "2018-03-19 17:28:55"
+            "time": "2018-03-19T17:28:55+00:00"
         },
         {
             "name": "markbaker/complex",
@@ -503,7 +502,7 @@
                 "complex",
                 "mathematics"
             ],
-            "time": "2018-10-13 23:28:42"
+            "time": "2018-10-13T23:28:42+00:00"
         },
         {
             "name": "markbaker/matrix",
@@ -573,7 +572,7 @@
                 "matrix",
                 "vector"
             ],
-            "time": "2018-11-04 22:12:12"
+            "time": "2018-11-04T22:12:12+00:00"
         },
         {
             "name": "onelogin/php-saml",
@@ -581,12 +580,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/onelogin/php-saml.git",
-                "reference": "874516eb62dd3e11ca3193ae9b72f09694cf2e43"
+                "reference": "f9e44f9a3220c4f28fab70086cdb5d35df18c887"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/874516eb62dd3e11ca3193ae9b72f09694cf2e43",
-                "reference": "874516eb62dd3e11ca3193ae9b72f09694cf2e43",
+                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/f9e44f9a3220c4f28fab70086cdb5d35df18c887",
+                "reference": "f9e44f9a3220c4f28fab70086cdb5d35df18c887",
                 "shasum": ""
             },
             "require": {
@@ -623,7 +622,7 @@
                 "onelogin",
                 "saml"
             ],
-            "time": "2019-01-22 13:06:40"
+            "time": "2019-03-11T09:32:44+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -672,7 +671,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2019-01-03 20:59:08"
+            "time": "2019-01-03T20:59:08+00:00"
         },
         {
             "name": "phpoffice/phpspreadsheet",
@@ -766,7 +765,7 @@
                 "xls",
                 "xlsx"
             ],
-            "time": "2019-01-02 04:42:54"
+            "time": "2019-01-02T04:42:54+00:00"
         },
         {
             "name": "phpseclib/phpseclib",
@@ -774,12 +773,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpseclib/phpseclib.git",
-                "reference": "0926c4286ec8cbf2347b69c568666f2ed4e296f9"
+                "reference": "53dcc19441d30d13c1b9008fcf1c3d53392fb240"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/0926c4286ec8cbf2347b69c568666f2ed4e296f9",
-                "reference": "0926c4286ec8cbf2347b69c568666f2ed4e296f9",
+                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/53dcc19441d30d13c1b9008fcf1c3d53392fb240",
+                "reference": "53dcc19441d30d13c1b9008fcf1c3d53392fb240",
                 "shasum": ""
             },
             "require": {
@@ -858,7 +857,7 @@
                 "x.509",
                 "x509"
             ],
-            "time": "2019-01-27 23:04:12"
+            "time": "2019-11-02T17:43:08+00:00"
         },
         {
             "name": "psr/http-message",
@@ -866,12 +865,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/http-message.git",
-                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363"
+                "reference": "efd67d1dc14a7ef4fc4e518e7dee91c271d524e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/http-message/zipball/f6561bf28d520154e4b0ec72be95418abe6d9363",
-                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball/efd67d1dc14a7ef4fc4e518e7dee91c271d524e4",
+                "reference": "efd67d1dc14a7ef4fc4e518e7dee91c271d524e4",
                 "shasum": ""
             },
             "require": {
@@ -908,7 +907,7 @@
                 "request",
                 "response"
             ],
-            "time": "2016-08-06 14:39:51"
+            "time": "2019-08-29T13:16:46+00:00"
         },
         {
             "name": "psr/simple-cache",
@@ -956,7 +955,7 @@
                 "psr-16",
                 "simple-cache"
             ],
-            "time": "2017-10-23 01:57:42"
+            "time": "2017-10-23T01:57:42+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -996,7 +995,7 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
-            "time": "2018-12-11 21:53:24"
+            "time": "2018-12-11T21:53:24+00:00"
         },
         {
             "name": "respect/validation",
@@ -1004,12 +1003,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Respect/Validation.git",
-                "reference": "a009286ba6e37d86ba6d5253143b96e4038959c5"
+                "reference": "45d109fc830644fecc1145200d6351ce4f2769d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Respect/Validation/zipball/a009286ba6e37d86ba6d5253143b96e4038959c5",
-                "reference": "a009286ba6e37d86ba6d5253143b96e4038959c5",
+                "url": "https://api.github.com/repos/Respect/Validation/zipball/45d109fc830644fecc1145200d6351ce4f2769d0",
+                "reference": "45d109fc830644fecc1145200d6351ce4f2769d0",
                 "shasum": ""
             },
             "require": {
@@ -1059,20 +1058,20 @@
                 "validation",
                 "validator"
             ],
-            "time": "2018-12-11 12:19:52"
+            "time": "2019-05-28T06:10:06+00:00"
         },
         {
             "name": "robrichards/xmlseclibs",
-            "version": "3.0.3",
+            "version": "3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/robrichards/xmlseclibs.git",
-                "reference": "406c68ac9124db033d079284b719958b829cb830"
+                "reference": "0a53d3c3aa87564910cae4ed01416441d3ae0db5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/406c68ac9124db033d079284b719958b829cb830",
-                "reference": "406c68ac9124db033d079284b719958b829cb830",
+                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/0a53d3c3aa87564910cae4ed01416441d3ae0db5",
+                "reference": "0a53d3c3aa87564910cae4ed01416441d3ae0db5",
                 "shasum": ""
             },
             "require": {
@@ -1097,7 +1096,7 @@
                 "xml",
                 "xmldsig"
             ],
-            "time": "2018-11-15 11:59:02"
+            "time": "2019-11-05T11:44:22+00:00"
         },
         {
             "name": "sabre/uri",
@@ -1148,7 +1147,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2015-01-27 22:21:38"
+            "time": "2015-01-27T22:21:38+00:00"
         },
         {
             "name": "sabre/vobject",
@@ -1245,7 +1244,7 @@
                 "xCal",
                 "xCard"
             ],
-            "time": "2018-09-26 07:32:49"
+            "time": "2018-09-26T07:32:49+00:00"
         },
         {
             "name": "sabre/xml",
@@ -1308,7 +1307,7 @@
                 "dom",
                 "xml"
             ],
-            "time": "2019-01-09 15:59:12"
+            "time": "2019-01-09T15:59:12+00:00"
         },
         {
             "name": "sepia/po-parser",
@@ -1359,7 +1358,7 @@
                 "i18n",
                 "po"
             ],
-            "time": "2018-07-27 14:37:11"
+            "time": "2018-07-27T14:37:11+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1418,7 +1417,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2019-02-06 07:57:58"
+            "time": "2019-02-06T07:57:58+00:00"
         },
         {
             "name": "willdurand/negotiation",
@@ -1470,7 +1469,7 @@
                 "header",
                 "negotiation"
             ],
-            "time": "2017-08-04 15:54:30"
+            "time": "2017-08-04T15:54:30+00:00"
         }
     ],
     "packages-dev": [],
